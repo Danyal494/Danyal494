@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Three.js and framer motion**
 
-- 👨‍💻 All of my projects are available at [https://my-portfoilio-six.vercel.app/](https://my-portfoilio-six.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Danyal494?tab=repositories/](https://github.com/Danyal494?tab=repositories)
 
 - 💬 Ask me about **react , Next and three.js**
 
