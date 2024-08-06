@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Three.js<br>👯 I’m looking to collaborate on Frontendweb devolopment<br>🌱 I’m currently learning Three.js<br>💬 Ask me about me about Three.js<br>⚡ Fun fact i love playing games and football also have habite of reading books
+🔭 I’m currently working on Three.js<br>👯 I’m looking to collaborate on Frontendweb devolopment<br>🌱 I’m currently learning Three.js<br>💬 Ask me about me about Three.js<br>⚡ Fun fact i love playing games and football also have habit of reading books
 
 
 ## 🌐 Socials:
