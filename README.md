@@ -1,3 +1,5 @@
+![FrontEnd Devloper](https://github.com/user-attachments/assets/cb332016-ff43-4343-b307-54e5d5269c9a)
+
 # 💫 About Me:
 🔭 I’m currently working on Three.js<br>👯 I’m looking to collaborate on Frontend web devolopment<br>🌱 I’m currently learning Three.js and shaders<br>💬 Ask me about me about Three.js<br>⚡ Fun fact i love playing games and football also have habit of reading books
 
